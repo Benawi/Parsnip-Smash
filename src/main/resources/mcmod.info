@@ -1,0 +1,16 @@
+[
+{
+  "modid": "turnip_smash",
+  "name": "Turnip Smash",
+  "description": "Adds Peach's turnips to minecraft. Every turnip yields the chance for 1 of 8 special turnips and a small chance for a bomb. Turnips have knockback and deal damage.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "functionstorm.com/minecraft/mods/turnip_smash",
+  "updateUrl": "functionstorm.com/minecraft/mods/turnip_smash/update.json",
+  "authorList": ["Benawi14", "currywurst1995"],
+  "credits": "currywurst1995 for having this idea",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
